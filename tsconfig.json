@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "ES6",        // or a later version like "ES2017"
+      "module": "commonjs",   // Use "commonjs" for Node.js modules
+      "strict": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": false, // Add this line
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist",
+      "baseUrl": ".",
+      "paths": {
+        "*": ["node_modules/*"]
+      },
+      "typeRoots": ["node_modules/@types"]
+    },
+    "include": ["src/**/*"]
+  }
+  

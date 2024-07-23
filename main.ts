@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
@@ -77,7 +77,7 @@ app.get('/info_store_relate/', function (req, res) {
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
 });
-=======
+
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');

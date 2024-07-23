@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "product_name": "Bộ 2 Thùng 24 hộp Sữa pha sẵn Enfagrow A+ 360° Brain DHA+ - Hộp 180ml",
@@ -27,4 +28,35 @@
         "discount": "13%",
         "sales": "1,6k sold"
     }
+=======
+[
+    {
+        "product_name": "Bộ 2 Thùng 24 hộp Sữa pha sẵn Enfagrow A+ 360° Brain DHA+ - Hộp 180ml",
+        "product_image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvd3q8uppdhp94_tn",
+        "price": "678.000",
+        "discount": "14%",
+        "sales": "1,7k sold"
+    },
+    {
+        "product_name": "Bộ 3 Lon Sữa bột Enfagrow A+ Neuropro 4 Vị nhạt dễ uống - 1.7kg/lon",
+        "product_image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvd3guu8falgcc_tn",
+        "price": "2.719.000",
+        "discount": "15%",
+        "sales": "160 sold"
+    },
+    {
+        "product_name": "Sữa Bột Bầu Enfamama A+ với 360° Brain Plus - Vị Vanilla - 400g",
+        "product_image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvcmv7s56nilcc_tn",
+        "price": "253.000",
+        "discount": "13%",
+        "sales": "857 sold"
+    },
+    {
+        "product_name": "Sữa Bột Bầu Enfamama A+ với 360° Brain Plus - Vị Vanilla - 830g",
+        "product_image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvcmv7s53udp2f_tn",
+        "price": "501.000",
+        "discount": "13%",
+        "sales": "1,6k sold"
+    }
+>>>>>>> f0f9df7 (update)
   ]

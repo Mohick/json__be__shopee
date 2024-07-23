@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 [
     {
@@ -130,3 +131,137 @@
     }
 ]
 
+=======
+
+[
+    {
+        "id": 1,
+        "img": "https://down-vn.img.susercontent.com/file/vn-50009109-cc2bd70a2de07d99917bed6f6945f720_tn",
+        "discount": 52,
+        "cost": "86.000",
+        "sold": 100,
+        "sale": 100
+    },
+    {
+        "id": 2,
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvfc-lh8ra9rjyosn8f_tn",
+        "discount": 42,
+        "cost": "64.000",
+        "sold": 85,
+        "sale": 100
+    },
+    {
+        "id": 3,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lv35t9l5nbp54c_tn",
+        "discount": 63,
+        "cost": "22.000",
+        "sold": 92,
+        "sale": 100
+    },
+    {
+        "id": 4,
+        "img": "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lnkzwobmx6rs14_tn",
+        "discount": 73,
+        "cost": "76.000",
+        "sold": 92,
+        "sale": 100
+    },
+    {
+        "id": 5,
+        "img": "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-llwz2xpg1xcyf4_tn",
+        "discount": 51,
+        "cost": "47.000",
+        "sold": 95,
+        "sale": 100
+    },
+    {
+        "id": 6,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmc76r0fk7hb6d_tn",
+        "discount": 69,
+        "cost": "41.000",
+        "sold": 98,
+        "sale": 100
+    },
+    {
+        "id": 7,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ll1ykw22dasd83_tn",
+        "discount": 49,
+        "cost": "93.000",
+        "sold": 99,
+        "sale": 100
+    },
+    {
+        "id": 8,
+        "img": "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-luodqo9wwgqo4c_tn",
+        "discount": 57,
+        "cost": "81.000",
+        "sold": 100,
+        "sale": 100
+    },
+    {
+        "id": 9,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lu1xuzqosw0h79_tn",
+        "discount": 38,
+        "cost": "34.000",
+        "sold": 99,
+        "sale": 100
+    },
+    {
+        "id": 10,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsr40sfcpf4451_tn",
+        "discount": 59,
+        "cost": "20.000",
+        "sold": 98,
+        "sale": 100
+    },
+    {
+        "id": 11,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lv18oxoqttdl7a_tn",
+        "discount": 47,
+        "cost": "52.000",
+        "sold": 97,
+        "sale": 100
+    },
+    {
+        "id": 12,
+        "img": "https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-lhfxe5dovzby53_tn",
+        "discount": 66,
+        "cost": "71.000",
+        "sold": 95,
+        "sale": 100
+    },
+    {
+        "id": 13,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltg4tigo8tu2bb_tn",
+        "discount": 48,
+        "cost": "78.000",
+        "sold": 93,
+        "sale": 100
+    },
+    {
+        "id": 14,
+        "img": "https://down-vn.img.susercontent.com/file/81ea4d2b109f81c517a8204113f20d19_tn",
+        "discount": 55,
+        "cost": "17.000",
+        "sold": 91,
+        "sale": 100
+    },
+    {
+        "id": 15,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lp3cijgcg6e302_tn",
+        "discount": 64,
+        "cost": "59.000",
+        "sold": 90,
+        "sale": 100
+    },
+    {
+        "id": 16,
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-luwe32i8hnol01_tn",
+        "discount": 41,
+        "cost": "44.000",
+        "sold": 88,
+        "sale": 100
+    }
+]
+
+>>>>>>> f0f9df7 (update)

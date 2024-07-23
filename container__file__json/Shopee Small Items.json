@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 [
   {
@@ -68,4 +69,76 @@
 ]
 
 
+=======
+
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "id": 1,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-06fb832ef52b45481158c26831cc459b_xhdpi",
+        "name": "Thời trang -50%"
+      },
+      {
+        "id": 2,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-85797e97fb31583fb99b85283e415821_xhdpi",
+        "name": "Mua 1 được 2"
+      },
+      {
+        "id": 3,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-9f9896201e1c40c747e3bd3118b68d3a_xhdpi",
+        "name": "Mua 1 được 2"
+      },
+      {
+        "id": 4,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-7e80ab64bdc989f5c0862ed828f343a2_xhdpi",
+        "name": "Ưu đãi đến 50%"
+      },
+      {
+        "id": 5,
+        "url": "https://down-vn.img.susercontent.com/file/be40023a9d9cff397a470460bc7a924d_xhdpi",
+        "name": "Deli siêu sale"
+      },
+      {
+        "id": 6,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-08a87dd1e828b4bef31dafa67d5300ec_xhdpi",
+        "name": "Quà mọi đơn"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "id": 1,
+        "url": "https://down-vn.img.susercontent.com/file/5fb3f7b359a582f322ea39313e10260b_xhdpi",
+        "name": "Mua 1 tặng 1"
+      },
+      {
+        "id": 2,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-b44bb96f2e16efe70badc41661365c8a_xhdpi",
+        "name": "Mua 1 tặng 1"
+      },
+      {
+        "id": 3,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-e8e0b80b57828bee61eb7e31c3d83765_xhdpi",
+        "name": "Giảm đến 50%"
+      },
+      {
+        "id": 4,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-7ce7d5800afb2b6c80a7242236ec7409_xhdpi",
+        "name": "Mua là có quà"
+      },
+      {
+        "id": 5,
+        "url": "https://down-vn.img.susercontent.com/file/vn-50009109-5d6b20755f4ef36cf1f73d431c819c9e_xhdpi",
+        "name": "Mua là có quà"
+      }
+    ]
+  }
+]
+
+
+>>>>>>> f0f9df7 (update)
   

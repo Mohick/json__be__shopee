@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 [
@@ -12,3 +13,19 @@
   { "title": "iPhone 14 Pro Max", "id": 9 },
   { "title": "Máy Hút Bụi", "id": 10 }
 ]
+=======
+
+
+[
+  { "title": "Whey Protein", "id": 1 },
+  { "title": "Creatine Monohydrate", "id": 2 },
+  { "title": "Máy Phát Wifi Từ Sim 4g", "id": 3 },
+  { "title": "iPhone 13 1k Sale", "id": 4 },
+  { "title": "Máy Xay Thịt", "id": 5 },
+  { "title": "Monster Energy", "id": 6 },
+  { "title": "Enfagrow", "id": 7 },
+  { "title": "Đệm Yên Xe Máy", "id": 8 },
+  { "title": "iPhone 14 Pro Max", "id": 9 },
+  { "title": "Máy Hút Bụi", "id": 10 }
+]
+>>>>>>> f0f9df7 (update)

@@ -61,9 +61,7 @@ app.get('/banner__small/', function (req, res) {
 app.get('/info_store_relate/', function (req, res) {
     res.json(info_store_relate);
 });
-app.listen(port, function () {
-    console.log("Server is running at http://localhost:".concat(port));
-});
+
 var express = require('express');
 var cors = require('cors');
 var morgan = require('morgan');
@@ -285,5 +283,5 @@ app.get('/info_store_relate/', function (req, res) {
     res.json(info_store_relate);
 });
 app.listen(port, function () {
-    console.log("Server is running at http://localhost:".concat(port));
+    console.log(`Server is running at http://localhost:${port}`);
 });
